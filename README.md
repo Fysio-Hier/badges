@@ -17,6 +17,22 @@ Coverage toont een percentage zodra de runner-image een coverage-driver (pcov) h
 
 ## Aangesloten projecten
 
+### ai-ops
+
+Centrale CI/CD-orchestratie + reusable workflows. Repo: [`Fysio-Hier/ai-ops`](https://github.com/Fysio-Hier/ai-ops) (privé). Status per bats-suite (`.github/scripts/<area>/bats`); geen coverage (shell/bats heeft geen pcov-equivalent).
+
+| Suite | Status |
+|---|---|
+| Orchestrator | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/orchestrator.json) |
+| Quality gate | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/quality-gate.json) |
+| Merger | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/merger.json) |
+| Design gate | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/design-gate.json) |
+| Dev-fix | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/dev-fix.json) |
+| Mention router | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/mention-router.json) |
+| Test-health badges | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/test-health-badges.json) |
+
+---
+
 ### gym-planner
 
 Leden- en lesbeheer (Laravel). Repo: [`Fysio-Hier/fit-hier-gym-planner`](https://github.com/Fysio-Hier/fit-hier-gym-planner) (privé).
