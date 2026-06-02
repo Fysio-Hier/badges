@@ -21,13 +21,15 @@ Coverage toont een percentage zodra de runner-image een coverage-driver (pcov) h
 
 Leden- en lesbeheer (Laravel). Repo: [`Fysio-Hier/fit-hier-gym-planner`](https://github.com/Fysio-Hier/fit-hier-gym-planner) (privé).
 
-| Onderdeel | Status | Coverage |
-|---|---|---|
-| Recurring payments (Mollie) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/mollie.json) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/mollie-coverage.json) |
-| Class types | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/classtype.json) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/classtype-coverage.json) |
-| Invoicing | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/invoicing.json) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/invoicing-coverage.json) |
-| Auth | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/auth.json) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/auth-coverage.json) |
-| Bookings | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/bookings.json) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/bookings-coverage.json) |
+**Coverage (hele suite):** ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/coverage.json)
+
+| Onderdeel | Status |
+|---|---|
+| Recurring payments (Mollie) | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/mollie.json) |
+| Class types | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/classtype.json) |
+| Invoicing | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/invoicing.json) |
+| Auth | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/auth.json) |
+| Bookings | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/gym-planner/bookings.json) |
 
 ---
 
