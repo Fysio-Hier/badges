@@ -27,8 +27,11 @@ Centrale CI/CD-orchestratie + reusable workflows. Repo: [`Fysio-Hier/ai-ops`](ht
 | Quality gate | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/quality-gate.json) |
 | Merger | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/merger.json) |
 | Design gate | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/design-gate.json) |
+| Developer | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/developer.json) |
 | Dev-fix | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/dev-fix.json) |
 | Mention router | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/mention-router.json) |
+| Reviewer | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/reviewer.json) |
+| Sync-instructions | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/sync-instructions.json) |
 | Test-health badges | ![](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Fysio-Hier/badges/main/ai-ops/test-health-badges.json) |
 
 ---
